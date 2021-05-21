@@ -1,9 +1,13 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+Esse é um projeto feito com [Next.js](https://nextjs.org/) durante o Bootcamp Ignite da Rocketseat
 
-## Getting Started
+## Como instalar
 
-First, run the development server:
-
+```bash
+npm install  
+# or 
+yarn  
+```
+## Como rodar o projeto
 ```bash
 npm run dev
 # or
