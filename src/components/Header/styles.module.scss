@@ -10,6 +10,7 @@
   padding: 0 2rem;
   display: flex;
   align-items: center;
+
   nav {
     margin-left: 5rem;
     height: 5rem;
@@ -47,5 +48,9 @@
          background: var(--yellow-500)
        }
      }
+  }
+
+  button {
+    margin-left: auto;
   }
 }
