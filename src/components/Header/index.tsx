@@ -10,7 +10,6 @@ export function Header () {
           <a className={styles.active}>Home</a>
           <a href="">Post</a>
         </nav>
-
         <SignInButton />
       </div>
     </header>
